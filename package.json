@@ -1,0 +1,17 @@
+{
+  "name": "javascript-playground",
+  "version": "1.0.0",
+  "description": "this is a node js and core javascript playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "nothing"
+  },
+  "keywords": [
+    "node-js",
+    "node",
+    "javascript",
+    "js"
+  ],
+  "author": "ahmed fares",
+  "license": "ISC"
+}
